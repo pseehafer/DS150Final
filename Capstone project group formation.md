@@ -23,6 +23,6 @@ Proposed by: [Your Name]
 
 ## Interested students (add your name below):
 1. Gavin Sorensen
-2. 
+2. Parker Seehafer
 3. 
 4. 
