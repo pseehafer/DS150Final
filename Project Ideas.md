@@ -11,6 +11,8 @@ Analysis of video game sales and pricing over time. Create correlations between 
 ---
 ## Your Project Idea here
 
+Give a description of what your project idea is. what are we going to look at?
+
 ### Links
 [link](path_to_link)
 ---
