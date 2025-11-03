@@ -1,4 +1,4 @@
-# Project Idea: [Your Project Title]
+# Project Idea: Video Game Sales and Price analysis
 ## Proposed by: Gavin Sorensen, Your name, Your name
 
 ## What question will you answer?
