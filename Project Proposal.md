@@ -18,6 +18,7 @@ Are there any patterns to video game sales? For example the price of video games
 - mathplotlib Use: plots
 - Pandas Use: Dataframes
 - requests Use: pulling from steam API
+- Import/Export CSV Use: Export data from steam API and import data from Kaggle, This way we don't need to hammer API, We also can look at the CSV to see what we are looking for
 
 ## Team size needed: 
 [3-4 total including you]
