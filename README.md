@@ -13,8 +13,10 @@ Final project for DS150 in Fall 2025
 
 ## Project
 ---
-- [ ] Something for us to do in the project
-- [ ] Something else for us to do in the project
+- [ ] Download and possibly clean kaggle datasets
+- [ ] Join kaggle datasets
+- [ ] Scrape Steam Web API data
+- [ ] 
 ---
 
 ## Assignments
