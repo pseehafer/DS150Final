@@ -5,10 +5,10 @@ Final project for DS150 in Fall 2025
 
 ## Project Proposal
 ---
-- [] Create project proposal
-- [] Come up with project idea
+- [X] Create project proposal
+- [X] Come up with project idea
 - [] Fill in project proposal
-- [] Something else for us to do
+- [] Review and submit project proposal
 ---
 
 ## Project
