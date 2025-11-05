@@ -7,12 +7,28 @@ Final project for DS150 in Fall 2025
 ---
 - [X] Create project proposal
 - [X] Come up with project idea
-- [] Fill in project proposal
-- [] Review and submit project proposal
+- [ ] Fill in project proposal
+- [ ] Review and submit project proposal
 ---
 
 ## Project
 ---
-- [] Something for us to do in the project
-- \[]
+- [ ] Something for us to do in the project
+- [ ] Something else for us to do in the project
 ---
+
+## Assignments
+
+This is where you will pick what you want to do.
+
+### Gavin
+---
+
+---
+
+### Parker
+---
+
+---
+
+###
