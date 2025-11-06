@@ -1,5 +1,5 @@
 # Project Idea: Video Game Sales and Price analysis
-## Proposed by: Gavin Sorensen, Your name, Your name
+## Proposed by: Gavin Sorensen, Parker Seehafer, Noah Sutherland
 
 ## What question will you answer?
 Are there any patterns to video game sales? For example the price of video games on average over time, price of games in different countries - discount applied to these countries versus US prices, average price of games on different consoles, genre and release date.
@@ -12,7 +12,9 @@ Are there any patterns to video game sales? For example the price of video games
 ## What you'll create:
 - Plots of our different questions
 - For each plot we will have the coefficient of determination
-- 
+- A detailed analysis on video game sales based on time and location
+- A readable output with plots that make sense based on our questions
+- A better insight to how sales drop after release day (whether they stay steady or drop heavily)
 
 ## Approach: What Python concepts and libraries will you use?
 - mathplotlib Use: plots
