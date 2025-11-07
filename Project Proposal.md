@@ -7,7 +7,6 @@ How do video game prices change based on time and location, does this affect vid
 
 ## Data source:
 - https://www.kaggle.com/datasets?search=steam+sales
-- https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 - Steam API (https://store.steampowered.com/api/appdetails?appids={app_id}&cc={cc})
 
 ## What you'll create:
