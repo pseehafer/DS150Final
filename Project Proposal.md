@@ -2,7 +2,8 @@
 ## Proposed by: Gavin Sorensen, Parker Seehafer, Noah Sutherland
 
 ## What question will you answer?
-Are there any patterns to video game sales? For example the price of video games on average over time, price of games in different countries - discount applied to these countries versus US prices, average price of games on different consoles, genre and release date.
+
+How do video game prices change based on time and location, does this affect video game sales?
 
 ## Data source:
 - https://www.kaggle.com/datasets?search=steam+sales
