@@ -1,7 +1,7 @@
 # DS 150 Capstone Project
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](<[link_to_your_colab_notebook](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)>)
-[![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](<[link_to_your_github_repo](https://github.com/pseehafer/DS150Final)>)
+[![Colab](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)](<[link_to_your_colab_notebook]>)
+[![Status: Complete](https://github.com/pseehafer/DS150Final)](<[link_to_your_github_repo]>)
 
 ## Prerequesites
 
