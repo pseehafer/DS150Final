@@ -1,6 +1,9 @@
 # DS 150 Capstone Project
 
-## How to Run our project
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](<link_to_your_colab_notebook>)
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](<link_to_your_github_repo>)
+
+## 🚀 How to Run our project
 
 Step 1 -
 
