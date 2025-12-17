@@ -4,7 +4,7 @@ Authors: Gavin Sorensen, Parker Seehafer, and Noah Sutherland
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](https://github.com/pseehafer/DS150Final/tree/main/Final_Submission)
-[![Kaggle Dataset](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset)
 
 ## Prerequesites
 
