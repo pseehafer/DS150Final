@@ -44,3 +44,24 @@ Suggestion: The "Run all" prompt will most likely time out so I suggest running 
   - Predicts the price using the normalized log of Price and Release Month
 * **Chapter 6** Analyzing Genres
   -
+
+---
+
+##  Results and Insights
+
+### **Predictions**
+
+In the project we each choose to analyze one set of data and make predictions on this.
+
+Gavin - Price and Release Month
+Noah - Price and Genres
+
+### **Results**
+
+#### Price and Release Month
+
+
+
+#### Price and Genres
+
+
