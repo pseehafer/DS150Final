@@ -26,7 +26,7 @@ There are two ways that you can go about running the notebook.
 
 This notebook is divided into clear, collapsible sections (chapters) for ease of navigation.
 
-Suggestion: The "Run all" prompt will most likely time out so I suggest running each "chapter" individually starting from top to bottom before expanding them
+❗❗❗Suggestion: The "Run all" prompt will most likely time out so I suggest running each "chapter" individually starting from top to bottom before expanding them❗❗❗
 
 * **Chapter 1:** Setup for Project
   - Mount google drive
