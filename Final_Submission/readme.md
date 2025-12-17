@@ -1,5 +1,7 @@
 # DS 150 Capstone Project
 
+Authors: Gavin Sorensen, Parker Seehafer, and Noah Sutherland
+
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](https://github.com/pseehafer/DS150Final)
 
@@ -24,6 +26,8 @@ There are two ways that you can go about running the notebook.
 
 This notebook is divided into clear, collapsible sections (chapters) for ease of navigation.
 
+Suggestion: The "Run all" prompt will most likely time out so I suggest running each "chapter" individually starting from top to bottom before expanding them
+
 * **Chapter 1:** Setup for Project
   - Mount google drive
   - Import neccessary Librarys
@@ -40,5 +44,3 @@ This notebook is divided into clear, collapsible sections (chapters) for ease of
   - Predicts the price using the normalized log of Price and Release Month
 * **Chapter 6** Analyzing Genres
   -
-
-Suggestion: The "Run all" prompt will most likely time out so I suggest running each "chapter" individually starting from top to bottom before expanding them
