@@ -58,6 +58,8 @@ Gavin - Price and Release Month
 
 Noah - Price and Genres
 
+Parker - Average Playtime and Genre
+
 
 
 ### **Results**
