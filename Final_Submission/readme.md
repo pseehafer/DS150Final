@@ -1,9 +1,9 @@
 # DS 150 Capstone Project
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](<link_to_your_colab_notebook>)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](<[link_to_your_colab_notebook](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)>)
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](<link_to_your_github_repo>)
 
-## 🚀 How to Run our project
+## Prerequesites
 
 Step 1 -
 
@@ -22,3 +22,5 @@ Option B Copy colab notebook:
 
 Step 2 -
 The "Run all" prompt will most likely time out so I suggest running each "chapter" individually starting from top to bottom before expanding them
+
+
