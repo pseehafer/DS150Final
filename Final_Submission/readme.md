@@ -3,7 +3,7 @@
 Authors: Gavin Sorensen, Parker Seehafer, and Noah Sutherland
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11EmdjRLzoTm3QvHnSSOyPmwJNekRmpej?usp=sharing)
-[![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](https://github.com/pseehafer/DS150Final)
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](https://github.com/pseehafer/DS150Final/tree/main/Final_Submission)
 
 ## Prerequesites
 
