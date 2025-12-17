@@ -54,7 +54,10 @@ Suggestion: The "Run all" prompt will most likely time out so I suggest running 
 In the project we each choose to analyze one set of data and make predictions on this.
 
 Gavin - Price and Release Month
+
 Noah - Price and Genres
+
+
 
 ### **Results**
 
