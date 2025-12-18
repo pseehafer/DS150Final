@@ -44,7 +44,9 @@ This notebook is divided into clear, collapsible sections (chapters) for ease of
   - Verifies the correlation between release months and price
   - Predicts the price using the normalized log of Price and Release Month
 * **Chapter 6** Analyzing Price and reviews
-  -
+  - Sifts through the CSV file to get target columns
+  - Creates cleaned graphs displaying the relationship between Price and Reviews
+  - Predicts and Analyzes Amount of Reviews that are positive based on price.
 * **Chapter 7** Analyzing Genres
   -
 
@@ -71,5 +73,10 @@ Parker - Average Playtime and Genre
 The while the price and release month correlate very well, our predicted values are lower than you would expect. This is most likely due to the dataset having a very low mean price. If we had more time I would go through each dataset to clean them and then perform Multiple linear regression on as much of the dataset as possible.
 
 #### Price and Genres
+
+
+#### Price and Public Opinion
+
+The Price and the Amount of Reviews a game is given have a positive relationship. This is most likely due to the willingness of a user to review something that they spent money on. We can also see that there is a high amount of reviews on free games as well, even more so than expensive games. This is due to the amount of users who are able to own the game, and review it as well.
 
 
