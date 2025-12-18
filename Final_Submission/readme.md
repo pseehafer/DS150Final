@@ -43,7 +43,9 @@ This notebook is divided into clear, collapsible sections (chapters) for ease of
   - Uses normalized log of Price and the release months
   - Verifies the correlation between release months and price
   - Predicts the price using the normalized log of Price and Release Month
-* **Chapter 6** Analyzing Genres
+* **Chapter 6** Analyzing Price and reviews
+  -
+* **Chapter 7** Analyzing Genres
   -
 
 ---
