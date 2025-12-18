@@ -48,7 +48,9 @@ This notebook is divided into clear, collapsible sections (chapters) for ease of
   - Creates cleaned graphs displaying the relationship between Price and Reviews
   - Predicts and Analyzes Amount of Reviews that are positive based on price.
 * **Chapter 7** Analyzing Genres
-  -
+  - Filters by Price and Genre, exploding the DataFrame by Genre
+  - Trains a Regression Model given Genre to predict Price
+  - Analyzes how Genre affects Price and Predicted Price accuracy
 
 ---
 
@@ -74,6 +76,7 @@ The while the price and release month correlate very well, our predicted values 
 
 #### Price and Genres
 
+Price is familiar similar across the different genres, with an average range being between 5-9 USD. The predicted price is farily close to the actual average price per genre, which is expected as the data is trained by genre. The correlation between genre and price is still very low, with the R2 score and P-value being extremely low as well. The model could be improved by adding another category, such as game developer or budget.
 
 #### Price and Public Opinion
 
