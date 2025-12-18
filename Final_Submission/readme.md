@@ -66,7 +66,7 @@ Parker - Average Playtime and Genre
 
 #### Price and Release Month
 
-
+The while the price and release month correlate very well, our predicted values are lower than you would expect. This is most likely due to the dataset having a very low mean price. If we had more time I would go through each dataset to clean them and then perform Multiple linear regression on as much of the dataset as possible.
 
 #### Price and Genres
 
